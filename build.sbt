@@ -1,4 +1,4 @@
-name := "Group6"
+name := "Group6_SBT"
 version := "1.0"
 scalaVersion := "2.12.12"
 
